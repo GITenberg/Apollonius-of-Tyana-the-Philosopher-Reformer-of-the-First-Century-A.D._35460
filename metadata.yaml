@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4696
     wikipedia: http://en.wikipedia.org/wiki/G._R._S._Mead
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35460#Apollonius-of-Tyana-the-Philosopher-Reformer-of-the-First-Century-A.D.
 gutenberg_issued: '2011-03-02'
 gutenberg_type: Text
 identifiers:
