@@ -1,0 +1,31 @@
+_repo: Apollonius-of-Tyana-the-Philosopher-Reformer-of-the-First-Century-A.D._35460
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mead, G. R. S. (George Robert Stow)
+    alias: Mead, George Robert Stow
+    birthdate: 1863
+    deathdate: 1933
+    gutenberg_agent_id: '4696'
+    url: http://www.gutenberg.org/2009/agents/4696
+    wikipedia: http://en.wikipedia.org/wiki/G._R._S._Mead
+description: ''
+gutenberg_issued: '2011-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35460'
+  lccn: '02007424'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philosophy, Ancient -- Oriental influences'
+- !lcsh 'Apollonius, of Tyana'
+- !lcsh 'Philosophers -- Greece -- Biography'
+- !lcc 'B'
+title: Apollonius of Tyana, the Philosopher-Reformer of the First Century A.D.
+url: http://www.gutenberg.org/ebooks/35460
